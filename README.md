@@ -9,10 +9,11 @@ back-end routing for a Shop webapp with sequelize
 Utilising sequelize to build and `CRUD` a database comprising of product information (tags, price, stock, etc).
 
 ## Challenges & Process
-1. I found the update employee function very difficult, I'm certain that my method (although it works) is very difficult to interpret and even more difficult for me to explain. In the end I ran out of time, and considering that I met the basic functionality requirements I decided to leave it there.
+1. I have long found the syntax and interactions of `sequelize` quite difficult to navigate, and as such it took me a rather long time to properly construct the models and to manage their assosciations.
+2. Initially I had some syntactic errors in my models which made working with the `CRUD` operations difficult, as I would get errors relating to foreign keys and being unable to remove a particular item for that reason.
 
 ## Link to repo
 [Repo](https://github.com/bendemic90/eCommerce-app)
 
 ## Link to video
-[Video]()
+[Video](https://drive.google.com/file/d/1GSWGfmXQI6BBIVR-Rsq4hVDxeF9kGWuh/view?usp=sharing)
